@@ -1,7 +1,15 @@
 Dotfiles
 ========
+Personal dotfile based on Anish Athalye dotfiles, released under the MIT License. See
+[LICENSE.md][license]
 
-After cloning this repo, run `install` to automatically set up the development
+[dotbot]: https://github.com/anishathalye/dotbot
+
+
+
+Original instructions
+======================
+Run `install` to automatically set up the development
 environment. Note that the install script is idempotent: it can safely be run
 multiple times.
 
